@@ -36,7 +36,7 @@ I’m currently pursuing the **Meta Front-End Developer Certificate**, where I�
 ## 💬 Let’s Connect  
 I’m always open to collaborating, learning, and taking on challenging projects. Feel free to reach out!  
 
-**📧 Email**: [your-email@example.com]  
+**📧 Email**: harsha.katari09@gmail.com 
 **🔗 LinkedIn**: [Harsha Vardhan Reddy Katari](https://www.linkedin.com/in/harsha-vardhan-reddy-katari)  
 
 ---
