@@ -1,44 +1,55 @@
 # Hi there, I'm Harsha Vardhan Reddy Katari 👋  
-### Web Developer | Front-End Enthusiast | Problem Solver  
+### Aspiring MERN Stack Developer | Front-End Enthusiast 
 
-Welcome to my GitHub profile! I'm a passionate web developer with expertise in **HTML**, **CSS**, and **JavaScript**, dedicated to building impactful and user-centric web solutions. My journey in web development has been fueled by hands-on projects, self-learning, and a commitment to staying updated with modern web trends.
-
----
-
-## 🚀 What I Do  
-### **🌐 Web Development**
-- **Static Websites**: Crafting clear and concise websites for portfolios, landing pages, and informational needs.  
-- **Dynamic Websites**: Building interactive, feature-rich sites tailored to specific business requirements.  
-
-### **📱 Responsive Design**
-- Ensuring seamless functionality across desktops, tablets, and mobile devices with pixel-perfect designs.  
-
-### **🎨 UI/UX Optimization**
-- Designing user-friendly interfaces that enhance engagement and satisfaction.  
-
-### **🛠️ Website Maintenance**
-- Keeping websites updated, secure, and running smoothly for long-term success.  
+Welcome to my GitHub! I'm a passionate web developer focused on crafting modern, responsive, and user-centric websites. Currently leveling up my skills by diving into the **MERN stack**, while solidifying my foundations in front-end development.
 
 ---
 
-## 🏆 Ongoing Learning  
-I’m currently pursuing the **Meta Front-End Developer Certificate**, where I’m refining my skills and mastering front-end best practices. My learning journey is complemented by self-study from platforms like YouTube and real-world projects.  
+## 🚀 What I Build  
+### **🌐 Front-End Development**
+- **HTML, CSS, Bootstrap**: Built multiple responsive landing pages and components from scratch  
+- **JavaScript (in progress)**
+
+### **📱 Responsive Web Design**
+- Optimized designs for all devices using Bootstrap and custom media queries  
+
+### **🎯 UI/UX Focused**
+- Clean, minimal interfaces with attention to usability   
+
+---
+
+## 🧠 Learning Journey  
+🎓 Currently pursuing the **Meta Front-End Developer Certificate**  
+📚 Learning JavaScript deeply to transition into **React** and full MERN stack  
+🧪 Practicing through hands-on projects, udemy course 
 
 ---
 
 ## 📌 Current Goals  
-- Explore and build projects with modern front-end frameworks like **React**.  
-- Expand my knowledge of back-end technologies and database development.  
-- Collaborate on exciting open-source projects!  
+- ✅ Master **JavaScript** fundamentals  
+- 🔄 Start building projects with **React.js**  
+- 🧰 Learn **MongoDB**, **Express.js**, and **Node.js**  
+- 🤝 Contribute to open-source and collaborate with other developers  
 
 ---
 
-## 💬 Let’s Connect  
-I’m always open to collaborating, learning, and taking on challenging projects. Feel free to reach out!  
+## 📂 Recent Projects  
+- **Startup Landing Page** – HTML + Bootstrap 5 responsive site  
+  🔗 [Live Demo](https://harshaweb09.github.io/bootstrap-landingpage/) | 💻 [GitHub](https://github.com/harshaweb09/bootstrap-landingpage)
 
-**📧 Email**: harsha.katari09@gmail.com 
-**🔗 LinkedIn**: [Harsha Vardhan Reddy Katari](https://www.linkedin.com/in/harsha-vardhan-reddy-katari)  
+- **Profile Card** – HTML + CSS ui practice  
+  🔗 [Live Demo](https://harshaweb09.github.io/profile-card/) | 💻 [GitHub](https://github.com/harshaweb09/profile-card)
+
+More projects coming soon as I dive deeper into JavaScript & React!
 
 ---
 
-Thank you for visiting my profile! Let’s create something amazing together. 🚀
+## 🤝 Let’s Connect  
+Always open to collaboration, feedback, and learning from fellow developers.
+
+📧 **Email**: harsha.web09@gmail.com  
+🔗 **LinkedIn**: [Harsha Vardhan Reddy Katari](https://www.linkedin.com/in/harsha-vardhan-reddy-katari)
+
+---
+
+Thanks for stopping by! 🚀 Let’s build and grow together.
