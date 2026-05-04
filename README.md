@@ -1,5 +1,5 @@
 # Hi there, I'm Harsha Vardhan Reddy Katari 👋
-### Aspiring Open Source Contributor | MERN Stack Developer | GSoC 2026 Aspirant
+### Aspiring Open Source Contributor | MERN Stack Developer 
 
 Welcome to my GitHub! I'm a developer passionate about building for the modern web. My current focus is mastering the MERN stack and applying my skills to contribute to impactful open-source projects.
 
