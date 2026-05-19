@@ -61,6 +61,15 @@ I'm a **BCA student** at **Sri Harshini Degree & P.G. College**, Ongole, and a s
 
 ---
 
+### 🎨 Dribbble Clone UI — [Live ↗](https://harshaweb09.github.io/dribbble-clone-ui/) · [Code ↗](https://github.com/harshaweb09/dribbble-clone-ui)
+
+**Sheryians Cohort 3 Assignment**
+
+A modern Dribbble-inspired design showcase UI built with semantic HTML and modern CSS layouts featuring interactive cards and hover animations.
+> `HTML5` · `CSS3` · `CSS Grid` · `Flexbox` · `Animations` · `Hover Effects`
+
+---
+
 ### 🧥 Astro Winter Armor UI — [Live ↗](https://harshaweb09.github.io/astro-winter-armor-ui/) · [Code ↗](https://github.com/harshaweb09/astro-winter-armor-ui)
 **Sheryians Cohort 3 Assignment**
 
