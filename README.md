@@ -98,21 +98,6 @@ A themed landing page UI built with HTML & CSS.
 
 ---
 
-### 🖥️ Startup Landing Page — [Live ↗](https://harshaweb09.github.io/bootstrap-landingpage/) · [Code ↗](https://github.com/harshaweb09/bootstrap-landingpage)
-
-A fully responsive startup landing page with navbar, hero, features, pricing (Basic $9 / Pro $29 / Enterprise $99), testimonials, contact form, and footer with hover-animated social icons.
-
-> `HTML5` · `Bootstrap 5.3` · `Bootstrap Icons 1.11` · `Custom CSS`
-
----
-
-### 🪪 Profile Card — [Live ↗](https://harshaweb09.github.io/profile-card/) · [Code ↗](https://github.com/harshaweb09/profile-card)
-
-A clean personal profile card — sidebar with photo + bio, skills list, LinkedIn & GitHub links with Font Awesome icons, all in pure HTML + CSS Flexbox. Zero dependencies.
-
-> `HTML5` · `CSS3` · `Flexbox` · `Font Awesome 6`
-
----
 
 ## 🤝 Open to Collaborate
 
